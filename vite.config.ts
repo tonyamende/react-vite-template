@@ -25,7 +25,7 @@ checkForAdditionalTheme();
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base,
+  base: "/react-vite-template/",
   plugins: [react()],
   resolve: {
     alias: [

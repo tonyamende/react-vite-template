@@ -12,6 +12,8 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@ag-grid-community/core": "^32.3.5",
+    "@ag-grid-community/react": "^32.3.5",
     "@siemens/ix": "^3.1.0",
     "@siemens/ix-icons": "^3.1.1",
     "@siemens/ix-react": "^3.1.0",
